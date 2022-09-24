@@ -28,7 +28,7 @@ Your BP is 120 / 75 mmHg.
 
 ## Question 2
 A more complete organisation is shown in the table below.
-![NAS 2020 P2 Fig 1](https://imgur.com/gallery/w25T2UO)
+![NAS 2020 P2 Fig 1](/set%201/NAS%20P2%202020%20Fig%201.jpg)
 When systolic and diastolic blood pressures fall into different categories, the higher category should be used to classify blood pressure level. For example, 160/95 mmHg would be classified stage 2 hypertension.
 
 **Edit the program so that it can also correctly output the additional 3 cases of hypertension**.
